@@ -1,5 +1,8 @@
 # Table of contents
 
-* [gitbook](README.md)
-* [Page 1](page-1.md)
-* [Page 2](page-2.md)
+* [🗒 Meeting Notes](README.md)
+
+## Meeting Template
+
+* [Meeting template](meeting-template/meeting-template.md)
+* [Weekly Sync - 04/07/22](meeting-template/weekly-sync-04-07-22.md)
